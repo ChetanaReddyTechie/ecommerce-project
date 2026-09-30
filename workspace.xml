@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ba43dca7-fb5b-4b7f-864c-e727436c4218" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ecommerce/src/main/java/com/shop/EcommerceApplication.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.000000005737224" />
+      <entry key="S30" value="1.0017901960844744" />
+      <entry key="S60" value="1.0423107088628218" />
+      <entry key="M2" value="1.2056956705009172" />
+      <entry key="M5" value="1.531239134279836" />
+      <entry key="M10" value="1.7288615329950099" />
+      <entry key="M15" value="1.809897428600898" />
+      <entry key="M30" value="1.8999430140852798" />
+      <entry key="H1" value="1.9486532633608973" />
+      <entry key="H2" value="1.9739883281440787" />
+      <entry key="H4" value="1.9869084699930784" />
+      <entry key="D1" value="1.9978060802646596" />
+      <entry key="W1" value="1.9996862878032462" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.5311409707344877E-75" />
+      <entry key="MS500" value="1.0889377044992787E-15" />
+      <entry key="S2" value="1.8165642327007923E-4" />
+      <entry key="S5" value="0.031893362093372096" />
+      <entry key="S10" value="0.17858713109232774" />
+      <entry key="S30" value="0.5646780461619192" />
+      <entry key="S60" value="0.789639137709683" />
+      <entry key="M2" value="1.064292758065198" />
+      <entry key="M5" value="1.467415093920588" />
+      <entry key="M10" value="1.6950365212808463" />
+      <entry key="M15" value="1.7868428000910568" />
+      <entry key="M30" value="1.8881397674902463" />
+      <entry key="H1" value="1.9426778225880177" />
+      <entry key="H2" value="1.970981510952405" />
+      <entry key="H4" value="1.985400204386567" />
+      <entry key="D1" value="1.9975540209306935" />
+      <entry key="W1" value="1.9996502625374415" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3JxotAHv1PYS75x7FOAOi6ssnX6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EcommerceApplication.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.EcommerceApplication.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.runner",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Spring Boot.EcommerceApplication">
+    <configuration name="EcommerceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shop.EcommerceApplication" />
+      <module name="ecommerce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EcommerceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ecommerce" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shop.EcommerceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EcommerceApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba43dca7-fb5b-4b7f-864c-e727436c4218" name="Changes" comment="" />
+      <created>1790612294325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790612294325</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

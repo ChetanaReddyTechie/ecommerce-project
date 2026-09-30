@@ -1,0 +1,9 @@
+<%@ taglib prefix="c" uri="jakarta.tags.core" %>
+<%@ page contentType="text/html;charset=UTF-8" isELIgnored="false" %>
+<!DOCTYPE html><html><head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>SmallShop</title><link rel="stylesheet" href="/css/style.css"></head><body>
+<nav><a class="logo" href="/">SmallShop</a><a href="/products">Products</a><a href="/cart">Cart</a>
+<c:choose><c:when test="${not empty sessionScope.user}"><span>Hi, ${sessionScope.user}</span><a href="/logout">Logout</a></c:when>
+<c:otherwise><a href="/login">Login</a><a href="/signup">Signup</a></c:otherwise></c:choose>
+<button id="theme" type="button">🌓</button></nav><main>
